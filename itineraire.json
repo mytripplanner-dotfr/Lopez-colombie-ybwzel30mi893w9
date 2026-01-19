@@ -1,0 +1,200 @@
+{
+  "pays": "Colombie",
+  "drapeau": "🇨🇴",
+  "symbole": "🌴",
+  "titre": "Évasion Relaxante au Cœur du Paysage Culturel du Café Colombien",
+  "budget_total": "Environ 1500 €/personne",
+  "duree": "5 jours",
+  "temps_vol": "18h30 (depuis Guillot, France, incluant les correspondances)",
+  "escale": "1 (à Bogota pour le vol domestique)",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Longue Traversée et Douce Arrivée dans le Paysage du Café",
+      "legende": "Après un long voyage depuis la France, la première journée est dédiée à l'arrivée en douceur dans la région du café. Installez-vous confortablement et imprégnez-vous de l'atmosphère paisible des montagnes colombiennes, prélude à une semaine de détente.",
+      "lieu": "Pereira, Région du Café",
+      "activites": [
+        "✈️ <strong>Vol international</strong>: De Guillot (via CDG) à Bogota, puis vol domestique vers Pereira.",
+        "🛏️ <strong>Installation à l'hôtel</strong>: Détendez-vous après le voyage et profitez des commodités.",
+        "🍽️ <strong>Dîner léger</strong>: Savourez un premier repas typique dans un restaurant local près de votre hébergement."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le décalage horaire (7h en moins en Colombie) et la durée du vol nécessitent une première journée très légère pour s'acclimater."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "☕",
+      "titre": "Immersion dans l'Or Noir Colombien et Balade Nature",
+      "legende": "Plongez au cœur de la culture du café colombien avec une visite guidée d'une finca traditionnelle. Apprenez tout sur le processus de production, de la graine à la tasse, puis profitez d'une balade apaisante au milieu des plantations verdoyantes.",
+      "lieu": "Salento / Finca du Café",
+      "activites": [
+        "☕ <strong>Visite de Finca de Café</strong>: Découvrez les secrets du café colombien, de la récolte à la dégustation.",
+        "🚶‍♀️ <strong>Balade douce dans les plantations</strong>: Profitez des paysages vallonnés et de l'air pur de la campagne.",
+        "🍽️ <strong>Déjeuner typique</strong>: Goûtez aux saveurs locales dans un restaurant de Salento ou de la finca."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Finca El Ocaso Salento, Salento",
+          "categorie": "Ferme de café",
+          "coords": { "lat": 4.6375, "lng": -75.5681 }
+        },
+        {
+          "nom_recherche": "Salento, Quindío",
+          "categorie": "Village",
+          "coords": { "lat": 4.6389, "lng": -75.5708 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil",
+          "texte": "Portez des chaussures confortables pour la marche et prévoyez un chapeau pour le soleil."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "♨️",
+      "titre": "Détente Absolue aux Sources Thermales Naturelles",
+      "legende": "Offrez-vous une journée de pure relaxation dans les célèbres sources chaudes de Santa Rosa de Cabal. Laissez les eaux minérales apaiser votre corps et votre esprit, entouré par la beauté luxuriante des montagnes andines. Une véritable pause bien-être.",
+      "lieu": "Santa Rosa de Cabal",
+      "activites": [
+        "♨️ <strong>Bains aux Thermales de Santa Rosa</strong>: Profitez des piscines naturelles d'eau chaude et des cascades.",
+        "💆‍♀️ <strong>Moment de relaxation</strong>: Laissez-vous tenter par un massage ou un soin (en option).",
+        "🚶‍♂️ <strong>Promenade dans les jardins</strong>: Explorez les environs verdoyants des thermales."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Termales Santa Rosa de Cabal, Santa Rosa de Cabal",
+          "categorie": "Sources thermales",
+          "coords": { "lat": 4.8385, "lng": -75.5905 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "👙",
+          "titre": "Préparation",
+          "texte": "N'oubliez pas votre maillot de bain, une serviette et des sandales pour les thermales."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🏞️",
+      "titre": "Exploration du Jardin Botanique et Douceur de Filandia",
+      "legende": "Découvrez la richesse de la flore colombienne au Jardin Botanique de Pereira, un havre de paix. L'après-midi, flânez dans les rues colorées de Filandia, un charmant village colonial, et admirez l'artisanat local et les vues panoramiques.",
+      "lieu": "Pereira / Filandia",
+      "activites": [
+        "🌿 <strong>Visite du Jardin Botanique de Pereira</strong>: Admirez la biodiversité locale et les collections de plantes.",
+        "🎨 <strong>Découverte de Filandia</strong>: Promenez-vous dans ce village pittoresque, connu pour ses maisons colorées et son artisanat.",
+        "🌅 <strong>Coucher de soleil panoramique</strong>: Profitez d'une vue imprenable sur la vallée depuis le Mirador de Filandia."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Jardin Botánico Universidad Tecnológica de Pereira, Pereira",
+          "categorie": "Jardin botanique",
+          "coords": { "lat": 4.7905, "lng": -75.7001 }
+        },
+        {
+          "nom_recherche": "Filandia, Quindío",
+          "categorie": "Village",
+          "coords": { "lat": 4.6600, "lng": -75.6600 }
+        },
+        {
+          "nom_recherche": "Mirador de Filandia, Filandia",
+          "categorie": "Point de vue",
+          "coords": { "lat": 4.6608, "lng": -75.6615 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🛍️",
+          "titre": "Artisanat",
+          "texte": "Filandia est réputée pour ses ateliers de vannerie. C'est l'occasion de trouver des souvenirs uniques."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🛫",
+      "titre": "Derniers Instants et Retour vers la France",
+      "legende": "Profitez d'un dernier petit-déjeuner colombien et des derniers instants pour acheter des souvenirs. Il est temps de prendre le chemin de l'aéroport pour le vol de retour, la tête remplie de souvenirs relaxants et de paysages verdoyants.",
+      "lieu": "Pereira / Bogota",
+      "activites": [
+        "🎁 <strong>Achats de souvenirs</strong>: Trouvez les derniers cadeaux ou produits locaux avant de partir.",
+        "✈️ <strong>Vol domestique</strong>: De Pereira à Bogota pour la correspondance internationale.",
+        "✈️ <strong>Vol international</strong>: Retour vers la France (via CDG) avec des souvenirs plein la tête."
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Organisation",
+          "texte": "Prévoyez suffisamment de temps pour les transferts et les formalités à l'aéroport de Bogota."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 833 €/pers (vol international A/R)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 200 €/pers (vols domestiques, taxis, bus locaux)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 175 €/pers (environ 35€/jour pour 3 repas)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 180 €/pers (4 nuits en hôtel 3* sur base double)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 75 €/pers (entrées thermales, tour café, jardins)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Décembre à Mars", "symbole": "☀️" },
+    { "titre": "Juillet à Août", "symbole": "☀️" }
+  ],
+  "infos_pratiques": [
+    { "titre": "Le climat dans la région du café est tempéré, avec des températures moyennes de 18-24°C. Prévoir des vêtements légers pour la journée et une petite veste pour le soir.", "symbole": "🌦️" },
+    { "titre": "La monnaie est le Peso Colombien (COP). Les cartes de crédit sont acceptées dans les grandes villes, mais prévoyez du liquide pour les petits commerces et les zones rurales.", "symbole": "💳" },
+    { "titre": "Un passeport valide 6 mois après la date de retour est nécessaire. Pas de visa pour les séjours de moins de 90 jours pour les citoyens français.", "symbole": "🛂" },
+    { "titre": "L'espagnol est la langue officielle. Apprendre quelques phrases de base sera très apprécié par les locaux.", "symbole": "🗣️" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "La Colombie est le pays avec la plus grande biodiversité par kilomètre carré au monde. Elle abrite plus d'espèces d'oiseaux que l'Europe et l'Amérique du Nord réunies !"
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Insolite",
+      "texte": "Dans la région du café, il est courant de voir des \"Yipao\", des jeeps Willys colorées et surchargées, utilisées pour transporter café, personnes et même des animaux. C'est un véritable spectacle !"
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍴",
+      "titre": "Bandeja Paisa",
+      "description": "Un plat emblématique et copieux de la région d'Antioquia (proche du Paysage du Café), composé de riz, haricots rouges, viande hachée, chicharrón (couenne de porc frite), œuf, arepa, avocat et plantain."
+    },
+    {
+      "symbole": "☕",
+      "titre": "Café Colombien",
+      "description": "Reconnu mondialement pour sa qualité, le café colombien est un incontournable. Dégustez-le frais moulu, noir ou avec un peu de panela (sucre de canne non raffiné)."
+    },
+    {
+      "symbole": "🥟",
+      "titre": "Empanadas",
+      "description": "De petites chaussons frits, généralement fourrés de viande assaisonnée, de pommes de terre ou de fromage. Parfaits pour une collation rapide et savoureuse."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol international", "url": "https://www.kayak.fr/flights/CDG-BOG/2026-05-18/2026-05-23", "symbole": "🛬" },
+    { "legende": "Vols domestiques", "titre": "Avianca (compagnie aérienne locale)", "url": "https://www.avianca.com/", "symbole": "✈️" },
+    { "legende": "Infos officielles et inspirations", "titre": "Colombia Travel", "url": "https://colombia.travel/fr", "symbole": "📘" },
+    { "legende": "Météo", "titre": "Météo Colombie", "url": "https://www.accuweather.com/fr/co/colombia-weather", "symbole": "🌤️" }
+  ]
+}
